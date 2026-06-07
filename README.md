@@ -1,4 +1,4 @@
-@Author : Zahra Akbari
+@Author : Zahra Akbari/
 Final project of bachelor Degree
 
 ------------
